@@ -7,5 +7,6 @@ Predict the percentage of student based on the number of study hours they studie
 Dataset Link : http://bit.ly/w-data
 
 #Task-2: Prediction using unsupervised machine learning algorithm
+From the given Iris dataset, predict the optimum number of clusters and represent it visually.
 
 Dataset Link :  
